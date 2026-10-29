@@ -1,0 +1,1 @@
+export default function PageIntro({number,title,lead,children}:{number:string,title:string,lead:string,children?:React.ReactNode}){return <section className="page-intro"><div className="eyebrow"><span className="red-dot"/> {number} / THE THREAD LAB</div><h1>{title}<span className="intro-period">.</span></h1><div className="page-lead"><p>{lead}</p>{children}</div></section>}

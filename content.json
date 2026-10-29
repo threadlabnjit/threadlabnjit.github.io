@@ -1,0 +1,207 @@
+{
+  "people": [
+    {
+      "slug": "abriana-gresham",
+      "name": "Abriana M. Gresham, Ph.D.",
+      "role": "Lab Director · Assistant Professor",
+      "group": "Director",
+      "joined": "Established the lab in 2025",
+      "bio": "Abriana Gresham is an Assistant Professor in the Department of Humanities and Social Sciences at New Jersey Institute of Technology (NJIT). She completed her Ph.D. in Experimental Psychology (Health Specialization) at Ohio University in 2024 and went on to complete postdoctoral training at Virginia Commonwealth University's Injury and Violence Prevention Research and Evaluation Core before joining NJIT in 2025 and establishing the THREAD Lab.",
+      "image": "/team/abriana-gresham.jpg",
+      "work": "",
+      "projects": "",
+      "links": [
+        {
+          "label": "Google Scholar",
+          "url": "https://scholar.google.com/citations?user=7yXrJgEAAAAJ&hl=en"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/abriana-gresham-0259a4105/"
+        },
+        {
+          "label": "X / Twitter",
+          "url": "https://x.com/AbrianaMGresham"
+        }
+      ]
+    },
+    {
+      "slug": "mariam-eleish",
+      "name": "Mariam Eleish",
+      "role": "Undergraduate Research Assistant, Study Coordinator",
+      "group": "Research Assistants",
+      "joined": "Joined Fall 2025",
+      "bio": "Mariam is a biology major at NJIT and has been a member of the THREAD Lab since Fall 2025. She is interested in interpersonal dynamics and the ways social experiences can influence health and well-being. Outside of the lab, Mariam enjoys volunteering in her community and exploring her interests in dentistry and healthcare.",
+      "image": "/team/mariam-eleish.png",
+      "work": "",
+      "projects": "",
+      "links": []
+    },
+    {
+      "slug": "ria-saketh",
+      "name": "Ria Saketh",
+      "role": "Undergraduate Research Assistant, Website Manager",
+      "group": "Research Assistants",
+      "joined": "Joined Spring 2026",
+      "bio": "Ria is a computer engineering major at NJIT and has been a member of the THREAD lab since Spring 2026. She is interested in the intersection of technology and psychology, as well as data analytics. Outside of the lab, Ria works as a tutor in the Norma J. Clayton Learning Center.",
+      "image": "/team/ria-saketh.jpg",
+      "work": "",
+      "projects": "",
+      "links": []
+    },
+    {
+      "slug": "sahana-jayakanthan",
+      "name": "Sahana Jayakanthan",
+      "role": "Undergraduate Research Assistant, Instagram Manager",
+      "group": "Research Assistants",
+      "joined": "Joined Spring 2026",
+      "bio": "Sahana is a biology major at NJIT and has been a member of the THREAD lab since Spring 2026. She is interested in relationship psychology and how it affects individual outcomes for both partners. Outside of the lab, Sahana enjoys helping develop leadership skills in young women through the GirlUp NJIT chapter, working on various art projects, and collecting physical music media.",
+      "image": "",
+      "work": "",
+      "projects": "",
+      "links": []
+    },
+    {
+      "slug": "manreet-kaur-bindra",
+      "name": "Manreet Kaur Bindra",
+      "role": "Undergraduate Research Assistant, Outreach Organizer",
+      "group": "Research Assistants",
+      "joined": "Joined Fall 2026",
+      "bio": "Manreet Kaur Bindra is a biology major with a minor in psychology at NJIT. As an undergraduate researcher in the THREAD Lab, she is interested in understanding how relationships and lived experiences influence mental and physical health. She is also a member of NJIT's Urban Ecology Lab, where she explores the connections between people and their environments. Manreet plans to pursue a Ph.D. in neuroscience and hopes to build a career at the intersection of biology, psychology, medicine, and research. Her long-term research interests include the neural basis of human behavior and neuropsychological disorders such as Alzheimer's disease, Parkinson's disease, and ADHD.",
+      "image": "",
+      "work": "",
+      "projects": "",
+      "links": []
+    },
+    {
+      "slug": "aashna-victoria-balachandran",
+      "name": "Aashna Victoria Balachandran",
+      "role": "Undergraduate Research Assistant, Outreach Organizer",
+      "group": "Research Assistants",
+      "joined": "Joined Fall 2026",
+      "bio": "Aashna is a biochemistry major at NJIT and has been a member of the THREAD lab since 2026. She is interested in interpersonal relationships. Outside of the lab, she is on the E-board of NJIT's Psyche and Cycle and enjoys photography, hiking, and going to the gym.",
+      "image": "/team/aashna-victoria-balachandran.jpg",
+      "work": "",
+      "projects": "",
+      "links": []
+    },
+    {
+      "slug": "akanksha-rajagopal",
+      "name": "Akanksha Rajagopal",
+      "role": "Undergraduate Research Assistant, Graphic Designer",
+      "group": "Research Assistants",
+      "joined": "Joined Fall 2026",
+      "bio": "Akanksha is a biology major, with a psychology minor, at NJIT and has been a member of the THREAD lab since 2026. She is interested in the intersection of psychology and physiology: particularly how physiological measures can be interpreted to learn about psychological states. She is also an undergraduate researcher in the Barden Lab at NJIT, where she focuses on the relationships between social behavior and morphological variation in shrimp. Apart from research, Akanksha is the External PR Manager for NJIT's Knit 'n Crochet club and Captain of NJIT's First Aid Squad. She is also passionate about fiber arts, scrapbooking, and music",
+      "image": "/team/akanksha-rajagopal.jpeg",
+      "work": "",
+      "projects": "",
+      "links": []
+    },
+    {
+      "slug": "brett-j-peters",
+      "name": "Brett J. Peters, Ph.D.",
+      "role": "Research Collaborator",
+      "group": "Collaborators",
+      "joined": "",
+      "bio": "",
+      "image": "/team/brett-j-peters.jpg",
+      "work": "",
+      "projects": "",
+      "links": []
+    },
+    {
+      "slug": "jeffry-a-simpson",
+      "name": "Jeffry A. Simpson, Ph.D.",
+      "role": "Research Collaborator",
+      "group": "Collaborators",
+      "joined": "",
+      "bio": "",
+      "image": "/team/jeffry-a-simpson.jpg",
+      "work": "",
+      "projects": "",
+      "links": [
+        {
+          "label": "Professional profile",
+          "url": "https://cla.umn.edu/about/directory/profile/simps108"
+        }
+      ]
+    },
+    {
+      "slug": "ana-m-digiovanni",
+      "name": "Ana M. DiGiovanni, Ph.D.",
+      "role": "Research Collaborator",
+      "group": "Collaborators",
+      "joined": "",
+      "bio": "",
+      "image": "/team/ana-m-digiovanni.jpg",
+      "work": "",
+      "projects": "",
+      "links": [
+        {
+          "label": "Professional profile",
+          "url": "https://anadigiovanni.com/"
+        }
+      ]
+    },
+    {
+      "slug": "apoorva-sarmal",
+      "name": "Apoorva Sarmal, Ph.D.",
+      "role": "Research Collaborator",
+      "group": "Collaborators",
+      "joined": "",
+      "bio": "",
+      "image": "/team/apoorva-sarmal.png",
+      "work": "",
+      "projects": "",
+      "links": [
+        {
+          "label": "Professional profile",
+          "url": "https://sites.google.com/view/apoorvasarmal/about-me?authuser=0"
+        }
+      ]
+    },
+    {
+      "slug": "amy-d-marshall",
+      "name": "Amy D. Marshall, Ph.D.",
+      "role": "Research Collaborator",
+      "group": "Collaborators",
+      "joined": "",
+      "bio": "",
+      "image": "/team/amy-d-marshall.jpeg",
+      "work": "",
+      "projects": "",
+      "links": [
+        {
+          "label": "Professional profile",
+          "url": "https://support.psyc.vt.edu/users/amymarshall"
+        }
+      ]
+    }
+  ],
+  "sponsors": [
+    "/sponsors/sponsor-0.png",
+    "/sponsors/sponsor-1.png"
+  ],
+  "teamIntro": "The THREAD Lab is made up of researchers with diverse training backgrounds and perspectives who are dedicated to understanding the intersection of close relationships, stress, and health. Together, we share an interest in understanding how interpersonal and affective experiences shape well-being across the lifespan. We collaborate on study design, data collection, and dissemination of findings.",
+  "workIntro": "Research in the THREAD Lab focuses on stress-related and health-relevant processes in the context of close relationships. We pay particular attention to how interpersonal experiences and affect regulation together shape physical health and general well-being. We use multi-method, immersive, and longitudinal approaches to understand these dynamics and their impact. Click below to view our ongoing and completed projects as well as publications and presentations from our lab. ​",
+  "project": "In collaboration with Dr. Ana DiGiovanni at Montclair State University , we collected data from participants three times per week across the 9-weeks surrounding the major US holiday season (November 2025 - January 2026). We are in the process of analyzing these data to examine a number of research questions, such as: how does conflict ebb and flow across the holiday season? are there differences between conflict and tension? are there differences in experienced conflict based on relationship type (i.e., family, friends, romantic partners)? ​ Learn more about the project here .",
+  "publications": [
+    "Gresham, AM , Pittman, SK, Schneck, IB, Thomson, ND (in press). History of child maltreatment and risk of suicide among survivors of intimate partner violence: Examining the role of posttraumatic stress disorder symptoms. Psychological Reports. DOI: 10.1177/00332941261436723",
+    "Gresham, AM , Kjærvik, SL, Thomson, ND, (2026). Intimate partner violence victimization and substance use: The mediating role of difficulties with emotion regulation. Journal of Interpersonal Violence, 41 (5-6), 1222 - 1241. DOI: 10.1177/08862605251319017",
+    "Gresham, AM , Valshtein, TJ, Spencer, CM, Simpson, JA (2026). Rethinking intimate partner violence risk: A Dyadic Socioecological Model of Adverse Relationship Pressures. Current Opinion in Psychology, 69 , 102272. DOI: 10.1016/j.copsyc.2026.102272"
+  ],
+  "presentations": [
+    "Jayakanthan, S , Gresham, AM (2026, July). Partner Influences on Cancer Patient Outcomes . Talk presented at the New Jersey Institute of Technology Undergraduate Summer Research and Innovation Symposium- Newark, NJ, US.",
+    "Saketh, R , Gresham, AM (2026, July). Examining the Association Between County-Level Gender Pay Gap and Intimate Partner Violence Victimization During the COVID-19 Pandemic in the US . Talk presented at the New Jersey Institute of Technology Undergraduate Summer Research and Innovation Symposium- Newark, NJ, US.",
+    "Eleish, M , Gresham, AM (2026, July). Strengthening the Dental Response to Intimate Partner Violence . Talk presented at the New Jersey Institute of Technology Undergraduate Summer Research and Innovation Symposium- Newark, NJ, US.",
+    "Jayakanthan, S , Gresham, AM (2026, May). Partner Influences on Cancer Patient Outcomes . Poster presented at the New Jersey Institute of Technology Honors Interdisciplinary Research Forum- Newark, NJ, US.",
+    "Saketh, R , Gresham, AM (2026, May). Examining the Association Between County-Level Gender Pay Gap and Intimate Partner Violence Victimization During the COVID-19 Pandemic in the US . Poster presented at the New Jersey Institute of Technology Honors Interdisciplinary Research Forum- Newark, NJ, US.",
+    "Pinto, D , Gresham, AM (2026, April). Utilizing the IOS Scale to Measure Closeness and Intimacy in Long-Distance and Close Distance Romantic Relationships . Poster presented at the New Jersey Institute of Technology Dana Knox Student Research Showcase- Newark, NJ, US.",
+    "Eleish, M , Gresham, AM (2026, April). Strengthening the Dental Response to Intimate Partner Violence . Poster presented at the New Jersey Institute of Technology Dana Knox Student Research Showcase- Newark, NJ, US.",
+    "Echevarria, E, Ruf, K, Gresham, AM , DiGiovanni, AM (2026, April). An Echo Chamber of Shared Feelings: How Co-Rumination and Shared Reality are Associated Across Situational Contexts . Poster presented at the Montclair State University Student Research Symposium- Montclair, NJ, US.",
+    "Walker, R, Parker, A, Gresham, AM , DiGiovanni, AM (2026, April). Co-rumination vs. Reappraisal Following Racial Discrimination: Emotional, Relational, and Collective Action Outcomes . Poster presented at the Montclair State University Student Research Symposium- Montclair, NJ, US.",
+    "Boyle, C, Robinson, E, Gresham, AM , DiGiovanni, AM (2026, April). Feeling the Power: Navigating the Impact Power has on Expressive Suppression in Relationships . Poster presented at the Montclair State University Student Research Symposium- Montclair, NJ, US.",
+    "Friedman, E, Peters, BJ, Merwin, A, Haudrich, E, DiGiovanni, AM, Tudder, A, Gresham, AM , Jamieson, JP (2026, April). A Cautionary Tale: Empirical Evidence Against The Use of Heart Rate as a Generalized  Index of Stress . Poster presented at the Ohio University Student Expo- Athens, OH, US."
+  ],
+  "application": "https://docs.google.com/forms/d/e/1FAIpQLSetslrlVVerVMPrEHraZxgiMusKOgXbu5KMa7KSg0TmQUFhzQ/viewform?usp=dialog"
+}

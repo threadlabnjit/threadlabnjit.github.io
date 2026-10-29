@@ -1,0 +1,5 @@
+import {SiteLink} from '../../web/paths';
+
+import {ArrowUpRight,ArrowRight} from 'lucide-react';
+import PageIntro from '../../components/page-intro';
+export default function Page(){return <main id="main"><PageIntro number="04" title="Lab notes" lead="The latest threads, as they unfold."><p>News, milestones, and moments from the THREAD Lab.</p></PageIntro><section className="section news-empty"><div className="news-art" aria-hidden="true"><span>STAY<br/>IN THE<br/><em>LOOP.</em></span><svg viewBox="0 0 400 340"><path d="M-20 270 C30 220 200 300 250 170 S100 -20 100 110 S400 320 420 50"/></svg></div><div><span className="eyebrow">OUR NEWSROOM IS TAKING SHAPE</span><h2>Good things<br/>are in the works.</h2><p>This page is under construction. Check back soon for updates from the lab.</p><SiteLink className="button" href="/our-work">Explore our research <ArrowRight size={17}/></SiteLink><SiteLink className="text-link" href="/our-team">Meet the team <ArrowUpRight size={16}/></SiteLink></div></section></main>}
